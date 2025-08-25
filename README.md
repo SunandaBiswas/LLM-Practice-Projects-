@@ -1,6 +1,6 @@
 # LLM-Practice-Projects-
 https://aiengineering.beehiiv.com/
-
+https://www.confident-ai.com/blog/how-to-jailbreak-llms-one-step-at-a-time
 # Important Links
 Node Download: https://nodejs.org/en/download
 
